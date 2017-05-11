@@ -1,2 +1,5 @@
 # TrollBot
-![alt text](http://i0.wp.com/randomnerdtutorials.com/wp-content/uploads/2015/08/nrf24-radiohead-with-Arduino.png)
+
+nRF24 connections and node addressing:
+![alt text](https://github.com/trolllabs/2017-trollbot/blob/master/Images/nrf24-radiohead-with-Arduino.png)
+![alt text](https://github.com/trolllabs/2017-trollbot/blob/master/Images/nrf24-radiohead-with-Arduino.png)
