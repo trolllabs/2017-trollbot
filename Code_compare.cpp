@@ -25,7 +25,7 @@ void loop() {
 	int pot = Alf.analogRead(A0);
 	int light = map(pot, 0, 1023, 0, 255);
 	analogWrite(6, light);
-}//10
+}//Lines = 10
 
 //Child node "Alf"
 #include"TrollBot.h"
