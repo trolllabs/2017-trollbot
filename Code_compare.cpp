@@ -3,7 +3,7 @@ Code comparison of arduino based networking tools for prototyping wirelessly com
 
 Scenario: Capture sensor data (potentiometer) from one unit and send it to another unit for further processing (mapping the value 
 and using it for fading an LED).
-Measure: number of essential lines of code to achieve the functionality described above. We don't count the line if it is purely 
+Measure: number of logical lines of code to achieve the functionality described above. We don't count the line if it is purely 
 for visual or debug purposes, e.g. we don't count a line containing a single curly bracket, a pin number definition, or messages 
 printed to the serial output for debug purposes.
 */
